@@ -1,0 +1,6 @@
+Added Component: Designator=H7(HEADER SINGLE)
+Added Component: Designator=H8(HEADER SINGLE)
+Added Component: Designator=H9(HEADER SINGLE)
+Added Member To Class: ClassName=Sheet1 Member=Component H7 Header
+Added Member To Class: ClassName=Sheet1 Member=Component H8 Header
+Added Member To Class: ClassName=Sheet1 Member=Component H9 Header

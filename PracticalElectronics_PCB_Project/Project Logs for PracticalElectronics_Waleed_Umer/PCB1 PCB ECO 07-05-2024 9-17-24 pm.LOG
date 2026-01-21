@@ -1,0 +1,9 @@
+Added Component: Designator=H7(HEADER SINGLE)
+Added Component: Designator=H8(HEADER SINGLE)
+Added Component: Designator=H9(HEADER SINGLE)
+Added Pin To Net: NetName=Integral_Out Pin=H7-1
+Added Pin To Net: NetName=Prop_Out Pin=H8-1
+Added Pin To Net: NetName=Differn_Out Pin=H9-1
+Added Member To Class: ClassName=Sheet1 Member=Component H7 Header
+Added Member To Class: ClassName=Sheet1 Member=Component H8 Header
+Added Member To Class: ClassName=Sheet1 Member=Component H9 Header
